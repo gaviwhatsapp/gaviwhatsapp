@@ -7,7 +7,7 @@ name = "gaviwhatsapp"
 version = "0.1.0"
 description = "WhatsApp API SDK for Python — send messages, templates, media, and broadcasts"
 readme = "README.md"
-license = {text = "MIT"}
+license = {text = "Proprietary"}
 requires-python = ">=3.8"
 dependencies = ["requests>=2.28"]
 keywords = ["whatsapp", "whatsapp-api", "gaviwhatsapp", "mcp"]
