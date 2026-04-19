@@ -129,4 +129,4 @@ Full docs: [gaviventures.com/docs/api](https://www.gaviventures.com/docs/api)
 
 ## License
 
-MIT
+Source code in this repository is provided for reference and integration purposes. The WhatsApp API service requires a paid subscription. See [gaviventures.com](https://www.gaviventures.com) for terms.
