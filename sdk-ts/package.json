@@ -1,0 +1,34 @@
+{
+  "name": "@gaviwhatsapp/whatsapp",
+  "version": "0.1.0",
+  "description": "WhatsApp API SDK for Node.js — send messages, templates, media, and broadcasts",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "whatsapp",
+    "whatsapp-api",
+    "gaviventures",
+    "mcp",
+    "cursor",
+    "lovable"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^5.7.0"
+  }
+}
