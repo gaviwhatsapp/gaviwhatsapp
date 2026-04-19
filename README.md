@@ -117,7 +117,7 @@ Full docs: [gaviventures.com/docs/api](https://www.gaviventures.com/docs/api)
 | API | $9.99/mo | API, SDKs, MCP server, webhooks, broadcasts |
 | Pro | $24.99/mo | Everything + visual builder, forms, flows, analytics |
 
-7-day free trial. No credit card required. Meta per-message charges billed separately.
+7-day free trial. No credit card required. Meta per-message charges billed directly to your WhatsApp Business Account.
 
 ## Links
 
